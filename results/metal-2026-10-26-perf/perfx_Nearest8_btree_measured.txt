@@ -1,0 +1,7 @@
+ratings: empirical sample /opt/bfi/data/derived/ratings_sample.txt (1000000 values)
+goos: linux
+goarch: amd64
+pkg: github.com/IvanFekete/bucketed-fenwick-index/bench
+cpu: Intel(R) Xeon(R) Platinum 8488C
+BenchmarkNearest8/n=1000000/btree         	 8358488	       430.9 ns/op
+PASS

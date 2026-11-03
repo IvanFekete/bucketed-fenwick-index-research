@@ -1,0 +1,520 @@
+{
+ "source": "lichess_2026-09_d1-3.csv.gz",
+ "games": 8954768,
+ "t_first": 1788220800,
+ "t_last": 1788479999,
+ "by_speed": {
+  "blitz": 4127086,
+  "bullet": 3189610,
+  "rapid": 1496320,
+  "ultrabullet": 81601,
+  "classical": 51357,
+  "correspondence": 8794
+ },
+ "speeds": {
+  "bullet": {
+   "games": 3189610,
+   "ratings": {
+    "n": 6379220,
+    "mean": 1773.9589746081808,
+    "sd": 410.67033229579914,
+    "skew": -0.029975507525865232,
+    "excess_kurtosis": -0.21086116129377164,
+    "ks_vs_normal": 0.017198931998809397,
+    "tail_beyond_3sd": 0.00200792573386715,
+    "normal_tail_beyond_3sd": 0.0027,
+    "percentiles": {
+     "p0.1": 662.0,
+     "p1": 863.0,
+     "p5": 1075.0,
+     "p25": 1491.0,
+     "p50": 1790.0,
+     "p75": 2058.0,
+     "p95": 2425.0,
+     "p99": 2713.0,
+     "p99.9": 3058.0
+    },
+    "min": 400,
+    "max": 3363
+   },
+   "pair_gap": {
+    "mean_abs": 59.02872576898116,
+    "median_abs": 32.0,
+    "p90_abs": 122.0,
+    "p99_abs": 514.0,
+    "share_within_elo_tol": 0.5251911675722111,
+    "elo_tol": 34.86007028756008
+   },
+   "arrivals": {
+    "games_per_min_mean": 738.471051412691,
+    "games_per_min_min": 347,
+    "games_per_min_max": 1118,
+    "dispersion_index_within_hour_median": 1.2308798128116105,
+    "dispersion_index_within_hour_p90": 1.923821019631511,
+    "hourly_profile_utc": [
+     79956,
+     76056,
+     74782,
+     74558,
+     83517,
+     90097,
+     103403,
+     114489,
+     125107,
+     136136,
+     146578,
+     153555,
+     167179,
+     176421,
+     183079,
+     184900,
+     187300,
+     176863,
+     178957,
+     169209,
+     165845,
+     138006,
+     112148,
+     91469
+    ],
+    "peak_to_trough": 2.5121382011320046
+   },
+   "buckets": {
+    "1": {
+     "buckets_total": 3364,
+     "buckets_nonempty": 2928,
+     "max_share": 0.0024968569825151036,
+     "entropy_bits": 10.716927294760644,
+     "share_top10pct_buckets": 0.2756266440097692
+    },
+    "5": {
+     "buckets_total": 673,
+     "buckets_nonempty": 591,
+     "max_share": 0.00533623232934434,
+     "entropy_bits": 8.396936788076397,
+     "share_top10pct_buckets": 0.27723906684516286
+    },
+    "10": {
+     "buckets_total": 337,
+     "buckets_nonempty": 296,
+     "max_share": 0.009787873752590442,
+     "entropy_bits": 7.397305311544447,
+     "share_top10pct_buckets": 0.2718612933869658
+    },
+    "25": {
+     "buckets_total": 135,
+     "buckets_nonempty": 119,
+     "max_share": 0.024309555086672038,
+     "entropy_bits": 6.075840457565458,
+     "share_top10pct_buckets": 0.25813908283457854
+    },
+    "35": {
+     "buckets_total": 97,
+     "buckets_nonempty": 86,
+     "max_share": 0.033853041594426904,
+     "entropy_bits": 5.590868325160893,
+     "share_top10pct_buckets": 0.2626192543916027
+    },
+    "50": {
+     "buckets_total": 68,
+     "buckets_nonempty": 60,
+     "max_share": 0.0479503763783033,
+     "entropy_bits": 5.076604726353739,
+     "share_top10pct_buckets": 0.28054260552230526
+    },
+    "100": {
+     "buckets_total": 34,
+     "buckets_nonempty": 30,
+     "max_share": 0.0950957954107242,
+     "entropy_bits": 4.079746771900168,
+     "share_top10pct_buckets": 0.28054260552230526
+    },
+    "200": {
+     "buckets_total": 17,
+     "buckets_nonempty": 15,
+     "max_share": 0.18903502309059728,
+     "entropy_bits": 3.0916875709219904,
+     "share_top10pct_buckets": 0.18903502309059728
+    }
+   }
+  },
+  "blitz": {
+   "games": 4127086,
+   "ratings": {
+    "n": 8254172,
+    "mean": 1611.5906124805736,
+    "sd": 367.1349143341654,
+    "skew": -0.0805862799928558,
+    "excess_kurtosis": -0.19411870321960922,
+    "ks_vs_normal": 0.021304249727958413,
+    "tail_beyond_3sd": 0.0017518413718541363,
+    "normal_tail_beyond_3sd": 0.0027,
+    "percentiles": {
+     "p0.1": 578.0,
+     "p1": 781.0,
+     "p5": 986.0,
+     "p25": 1358.0,
+     "p50": 1629.0,
+     "p75": 1870.0,
+     "p95": 2187.0,
+     "p99": 2423.0,
+     "p99.9": 2790.0
+    },
+    "min": 400,
+    "max": 3197
+   },
+   "pair_gap": {
+    "mean_abs": 56.9133051746438,
+    "median_abs": 30.0,
+    "p90_abs": 118.0,
+    "p99_abs": 502.14999999990687,
+    "share_within_elo_tol": 0.5422363381814675,
+    "elo_tol": 34.86007028756008
+   },
+   "arrivals": {
+    "games_per_min_mean": 955.512274201019,
+    "games_per_min_min": 425,
+    "games_per_min_max": 1827,
+    "dispersion_index_within_hour_median": 1.5818273067706288,
+    "dispersion_index_within_hour_p90": 3.8009088130474,
+    "hourly_profile_utc": [
+     102111,
+     97904,
+     93931,
+     93086,
+     99423,
+     118011,
+     133934,
+     149979,
+     161002,
+     175077,
+     188662,
+     205615,
+     213814,
+     228931,
+     236916,
+     239925,
+     238644,
+     240899,
+     246589,
+     236645,
+     204979,
+     171255,
+     137080,
+     112674
+    ],
+    "peak_to_trough": 2.649044969168296
+   },
+   "buckets": {
+    "1": {
+     "buckets_total": 3198,
+     "buckets_nonempty": 2697,
+     "max_share": 0.002737282431235986,
+     "entropy_bits": 10.554891040528679,
+     "share_top10pct_buckets": 0.280855790259762
+    },
+    "5": {
+     "buckets_total": 640,
+     "buckets_nonempty": 545,
+     "max_share": 0.00643759301356938,
+     "entropy_bits": 8.23453082120605,
+     "share_top10pct_buckets": 0.28137225635714885
+    },
+    "10": {
+     "buckets_total": 320,
+     "buckets_nonempty": 274,
+     "max_share": 0.0111107449663031,
+     "entropy_bits": 7.234837257141809,
+     "share_top10pct_buckets": 0.28103327626320357
+    },
+    "25": {
+     "buckets_total": 128,
+     "buckets_nonempty": 110,
+     "max_share": 0.026578801604812692,
+     "entropy_bits": 5.913373326381244,
+     "share_top10pct_buckets": 0.2851634300811759
+    },
+    "35": {
+     "buckets_total": 92,
+     "buckets_nonempty": 80,
+     "max_share": 0.03709421126673881,
+     "entropy_bits": 5.428464760847236,
+     "share_top10pct_buckets": 0.2898347647710757
+    },
+    "50": {
+     "buckets_total": 64,
+     "buckets_nonempty": 56,
+     "max_share": 0.05268838594591923,
+     "entropy_bits": 4.914486898523931,
+     "share_top10pct_buckets": 0.2598288477632887
+    },
+    "100": {
+     "buckets_total": 32,
+     "buckets_nonempty": 28,
+     "max_share": 0.10489689335284023,
+     "entropy_bits": 3.9185544253635536,
+     "share_top10pct_buckets": 0.20908711376501482
+    },
+    "200": {
+     "buckets_total": 16,
+     "buckets_nonempty": 14,
+     "max_share": 0.20908711376501482,
+     "entropy_bits": 2.9328535229609933,
+     "share_top10pct_buckets": 0.20908711376501482
+    }
+   }
+  },
+  "rapid": {
+   "games": 1496320,
+   "ratings": {
+    "n": 2992640,
+    "mean": 1471.8707452282933,
+    "sd": 365.52517541202894,
+    "skew": -0.11128304853445,
+    "excess_kurtosis": -0.27283909919805005,
+    "ks_vs_normal": 0.02671691674013632,
+    "tail_beyond_3sd": 0.0010729656757912747,
+    "normal_tail_beyond_3sd": 0.0027,
+    "percentiles": {
+     "p0.1": 454.0,
+     "p1": 642.0,
+     "p5": 849.0,
+     "p25": 1214.0,
+     "p50": 1495.0,
+     "p75": 1738.0,
+     "p95": 2035.0,
+     "p99": 2244.0,
+     "p99.9": 2592.0
+    },
+    "min": 400,
+    "max": 3092
+   },
+   "pair_gap": {
+    "mean_abs": 66.70982477010266,
+    "median_abs": 37.0,
+    "p90_abs": 129.0,
+    "p99_abs": 583.0,
+    "share_within_elo_tol": 0.47692338537211293,
+    "elo_tol": 34.86007028756008
+   },
+   "arrivals": {
+    "games_per_min_mean": 346.43376563223717,
+    "games_per_min_min": 140,
+    "games_per_min_max": 777,
+    "dispersion_index_within_hour_median": 1.1987760123883668,
+    "dispersion_index_within_hour_p90": 2.05464135868723,
+    "hourly_profile_utc": [
+     36825,
+     35850,
+     33663,
+     33409,
+     35360,
+     40125,
+     46118,
+     51174,
+     59036,
+     64655,
+     70790,
+     77303,
+     83566,
+     91950,
+     92870,
+     91059,
+     90474,
+     89556,
+     83488,
+     78848,
+     69936,
+     57023,
+     44742,
+     38500
+    ],
+    "peak_to_trough": 2.7797898769792573
+   },
+   "buckets": {
+    "1": {
+     "buckets_total": 3093,
+     "buckets_nonempty": 2620,
+     "max_share": 0.0066864039777587685,
+     "entropy_bits": 10.531585489619474,
+     "share_top10pct_buckets": 0.27006990483319077
+    },
+    "5": {
+     "buckets_total": 619,
+     "buckets_nonempty": 534,
+     "max_share": 0.010645116017964073,
+     "entropy_bits": 8.217657124613908,
+     "share_top10pct_buckets": 0.27218943808810947
+    },
+    "10": {
+     "buckets_total": 310,
+     "buckets_nonempty": 268,
+     "max_share": 0.015689491552609066,
+     "entropy_bits": 7.219454264094264,
+     "share_top10pct_buckets": 0.26734154458939263
+    },
+    "25": {
+     "buckets_total": 124,
+     "buckets_nonempty": 108,
+     "max_share": 0.030935896065012833,
+     "entropy_bits": 5.89909642603376,
+     "share_top10pct_buckets": 0.25766380186056453
+    },
+    "35": {
+     "buckets_total": 89,
+     "buckets_nonempty": 78,
+     "max_share": 0.03946849604362703,
+     "entropy_bits": 5.414996214483591,
+     "share_top10pct_buckets": 0.2529228373609923
+    },
+    "50": {
+     "buckets_total": 62,
+     "buckets_nonempty": 54,
+     "max_share": 0.05671614360564585,
+     "entropy_bits": 4.9005914214646875,
+     "share_top10pct_buckets": 0.25738144247219846
+    },
+    "100": {
+     "buckets_total": 31,
+     "buckets_nonempty": 27,
+     "max_share": 0.10873509677074422,
+     "entropy_bits": 3.9042611278719086,
+     "share_top10pct_buckets": 0.209850499893071
+    },
+    "200": {
+     "buckets_total": 16,
+     "buckets_nonempty": 14,
+     "max_share": 0.2033809612917023,
+     "entropy_bits": 2.9186933629316267,
+     "share_top10pct_buckets": 0.2033809612917023
+    }
+   }
+  },
+  "classical": {
+   "games": 51357,
+   "ratings": {
+    "n": 102714,
+    "mean": 1559.149599859805,
+    "sd": 295.3458494994048,
+    "skew": 0.20242856342167243,
+    "excess_kurtosis": 1.1398617791196877,
+    "ks_vs_normal": 0.03732732826921342,
+    "tail_beyond_3sd": 0.005666218821192827,
+    "normal_tail_beyond_3sd": 0.0027,
+    "percentiles": {
+     "p0.1": 701.0,
+     "p1": 880.1300000000001,
+     "p5": 1062.0,
+     "p25": 1371.0,
+     "p50": 1564.0,
+     "p75": 1750.0,
+     "p95": 2018.0,
+     "p99": 2264.0,
+     "p99.9": 2889.0
+    },
+    "min": 400,
+    "max": 3455
+   },
+   "pair_gap": {
+    "mean_abs": 92.58562610744397,
+    "median_abs": 57.0,
+    "p90_abs": 210.0,
+    "p99_abs": 646.0,
+    "share_within_elo_tol": 0.3407714625075452,
+    "elo_tol": 34.86007028756008
+   },
+   "arrivals": {
+    "games_per_min_mean": 11.88976377952756,
+    "games_per_min_min": 0,
+    "games_per_min_max": 44,
+    "dispersion_index_within_hour_median": 1.1761861750172677,
+    "dispersion_index_within_hour_p90": 1.6091933623214127,
+    "hourly_profile_utc": [
+     1176,
+     1078,
+     1032,
+     1065,
+     1064,
+     1177,
+     1474,
+     1724,
+     1973,
+     2168,
+     2537,
+     2779,
+     3145,
+     3314,
+     3613,
+     3581,
+     3309,
+     2927,
+     2935,
+     2584,
+     2234,
+     1751,
+     1453,
+     1264
+    ],
+    "peak_to_trough": 3.500968992248062
+   },
+   "buckets": {
+    "1": {
+     "buckets_total": 3456,
+     "buckets_nonempty": 2018,
+     "max_share": 0.03368576824970306,
+     "entropy_bits": 10.07997921796187,
+     "share_top10pct_buckets": 0.3136670755690558
+    },
+    "5": {
+     "buckets_total": 692,
+     "buckets_nonempty": 473,
+     "max_share": 0.03867048308896548,
+     "entropy_bits": 7.834227969810053,
+     "share_top10pct_buckets": 0.349932823178924
+    },
+    "10": {
+     "buckets_total": 346,
+     "buckets_nonempty": 251,
+     "max_share": 0.044979262807406974,
+     "entropy_bits": 6.855974359827478,
+     "share_top10pct_buckets": 0.36752536168389893
+    },
+    "25": {
+     "buckets_total": 139,
+     "buckets_nonempty": 106,
+     "max_share": 0.06417820355550363,
+     "entropy_bits": 5.554925811893986,
+     "share_top10pct_buckets": 0.3664738983974921
+    },
+    "35": {
+     "buckets_total": 99,
+     "buckets_nonempty": 76,
+     "max_share": 0.07302801954942852,
+     "entropy_bits": 5.078910539619547,
+     "share_top10pct_buckets": 0.3588897326557237
+    },
+    "50": {
+     "buckets_total": 70,
+     "buckets_nonempty": 55,
+     "max_share": 0.0958876102576085,
+     "entropy_bits": 4.565891110044711,
+     "share_top10pct_buckets": 0.3664738983974921
+    },
+    "100": {
+     "buckets_total": 35,
+     "buckets_nonempty": 29,
+     "max_share": 0.1713203652861343,
+     "entropy_bits": 3.575748154371688,
+     "share_top10pct_buckets": 0.3029479915104075
+    },
+    "200": {
+     "buckets_total": 18,
+     "buckets_nonempty": 15,
+     "max_share": 0.2784819985591059,
+     "entropy_bits": 2.6117842162809524,
+     "share_top10pct_buckets": 0.2784819985591059
+    }
+   }
+  }
+ }
+}

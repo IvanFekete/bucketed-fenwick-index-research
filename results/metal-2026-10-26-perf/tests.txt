@@ -1,0 +1,9 @@
+ok  	github.com/IvanFekete/bucketed-fenwick-index/pkg/baseline/btree	1.025s
+?   	github.com/IvanFekete/bucketed-fenwick-index/pkg/baseline/ostree	[no test files]
+?   	github.com/IvanFekete/bucketed-fenwick-index/pkg/baseline/skiplist	[no test files]
+?   	github.com/IvanFekete/bucketed-fenwick-index/pkg/baseline/sortedslice	[no test files]
+?   	github.com/IvanFekete/bucketed-fenwick-index/pkg/bfi	[no test files]
+ok  	github.com/IvanFekete/bucketed-fenwick-index/pkg/check	14.278s
+ok  	github.com/IvanFekete/bucketed-fenwick-index/pkg/concurrent	0.170s
+?   	github.com/IvanFekete/bucketed-fenwick-index/pkg/countidx	[no test files]
+?   	github.com/IvanFekete/bucketed-fenwick-index/pkg/queue	[no test files]

@@ -1,0 +1,64 @@
+8254172 blitz arrivals
+shard=0.1   best  b=1   matches=412208 gap=18.1 bad=0.1251 wait50=3 wait95=17 abandon=0.0002
+shard=0.1   best  b=5   matches=412209 gap=18.6 bad=0.1287 wait50=3 wait95=17 abandon=0.0002
+shard=0.1   best  b=10  matches=412211 gap=18.8 bad=0.1323 wait50=2 wait95=17 abandon=0.0002
+shard=0.1   best  b=25  matches=412214 gap=20.5 bad=0.1718 wait50=3 wait95=17 abandon=0.0002
+shard=0.1   best  b=35  matches=412212 gap=21.4 bad=0.1868 wait50=3 wait95=17 abandon=0.0002
+shard=0.1   best  b=50  matches=412212 gap=22.9 bad=0.2016 wait50=1 wait95=18 abandon=0.0002
+shard=0.1   best  b=100 matches=412224 gap=34.8 bad=0.4376 wait50=0 wait95=15 abandon=0.0001
+8254172 blitz arrivals
+shard=0.1   best  b=1   matches=412212 gap=21.9 bad=0.1706 wait50=1 wait95=14 abandon=0.0002
+shard=0.1   best  b=5   matches=412214 gap=22.5 bad=0.1833 wait50=1 wait95=14 abandon=0.0002
+shard=0.1   best  b=10  matches=412215 gap=22.6 bad=0.1887 wait50=1 wait95=14 abandon=0.0002
+shard=0.1   best  b=25  matches=412213 gap=24.4 bad=0.2284 wait50=0 wait95=14 abandon=0.0002
+shard=0.1   best  b=35  matches=412216 gap=25.5 bad=0.2771 wait50=2 wait95=14 abandon=0.0001
+shard=0.1   best  b=50  matches=412219 gap=26.0 bad=0.2631 wait50=2 wait95=15 abandon=0.0001
+shard=0.1   best  b=100 matches=412225 gap=35.2 bad=0.4414 wait50=0 wait95=15 abandon=0.0001
+8254172 blitz arrivals
+shard=0.1   best  b=1   matches=412214 gap=30.7 bad=0.3890 wait50=0 wait95=11 abandon=0.0002
+shard=0.1   best  b=5   matches=412214 gap=31.4 bad=0.4050 wait50=0 wait95=11 abandon=0.0002
+shard=0.1   best  b=10  matches=412218 gap=31.7 bad=0.4105 wait50=0 wait95=10 abandon=0.0001
+shard=0.1   best  b=25  matches=412219 gap=33.4 bad=0.4401 wait50=0 wait95=10 abandon=0.0001
+shard=0.1   best  b=35  matches=412219 gap=32.2 bad=0.4038 wait50=0 wait95=11 abandon=0.0001
+shard=0.1   best  b=50  matches=412224 gap=39.4 bad=0.5280 wait50=0 wait95=10 abandon=0.0001
+shard=0.1   best  b=100 matches=412219 gap=36.5 bad=0.4502 wait50=0 wait95=12 abandon=0.0001
+8254172 blitz arrivals
+shard=0.1   best  b=1   matches=412223 gap=51.2 bad=0.6477 wait50=0 wait95=7 abandon=0.0001
+shard=0.1   best  b=5   matches=412221 gap=52.1 bad=0.6532 wait50=0 wait95=7 abandon=0.0001
+shard=0.1   best  b=10  matches=412226 gap=52.5 bad=0.6562 wait50=0 wait95=7 abandon=0.0001
+shard=0.1   best  b=25  matches=412221 gap=54.6 bad=0.6685 wait50=0 wait95=7 abandon=0.0001
+shard=0.1   best  b=35  matches=412225 gap=52.5 bad=0.6444 wait50=0 wait95=7 abandon=0.0001
+shard=0.1   best  b=50  matches=412228 gap=60.4 bad=0.6978 wait50=0 wait95=6 abandon=0.0001
+shard=0.1   best  b=100 matches=412224 gap=75.7 bad=0.7537 wait50=0 wait95=5 abandon=0.0001
+8254172 blitz arrivals
+shard=0.1   best  b=1   matches=412155 gap=17.0 bad=0.0704 wait50=1 wait95=19 abandon=0.0003
+shard=0.1   best  b=5   matches=412152 gap=17.2 bad=0.0723 wait50=1 wait95=19 abandon=0.0003
+shard=0.1   best  b=10  matches=412158 gap=17.0 bad=0.0783 wait50=1 wait95=19 abandon=0.0003
+shard=0.1   best  b=25  matches=412159 gap=20.5 bad=0.1522 wait50=0 wait95=18 abandon=0.0003
+shard=0.1   best  b=35  matches=412147 gap=19.5 bad=0.1655 wait50=3 wait95=19 abandon=0.0003
+shard=0.1   best  b=50  matches=412162 gap=19.6 bad=0.1496 wait50=0 wait95=21 abandon=0.0003
+shard=0.1   best  b=100 matches=412157 gap=33.8 bad=0.4310 wait50=0 wait95=14 abandon=0.0003
+8254172 blitz arrivals
+shard=0.1   best  b=1   matches=412235 gap=27.9 bad=0.2760 wait50=1 wait95=11 abandon=0.0001
+shard=0.1   best  b=5   matches=412233 gap=28.5 bad=0.2893 wait50=1 wait95=11 abandon=0.0001
+shard=0.1   best  b=10  matches=412235 gap=27.9 bad=0.2784 wait50=1 wait95=11 abandon=0.0001
+shard=0.1   best  b=25  matches=412241 gap=29.8 bad=0.3119 wait50=1 wait95=11 abandon=0.0001
+shard=0.1   best  b=35  matches=412235 gap=30.8 bad=0.3524 wait50=1 wait95=11 abandon=0.0001
+shard=0.1   best  b=50  matches=412237 gap=31.9 bad=0.3515 wait50=2 wait95=12 abandon=0.0001
+shard=0.1   best  b=100 matches=412249 gap=38.2 bad=0.4608 wait50=0 wait95=11 abandon=0.0001
+8254172 blitz arrivals
+shard=0.1   best  b=1   matches=412212 gap=21.9 bad=0.1706 wait50=1 wait95=14 abandon=0.0002
+shard=0.1   best  b=5   matches=412214 gap=22.5 bad=0.1833 wait50=1 wait95=14 abandon=0.0002
+shard=0.1   best  b=10  matches=412215 gap=22.6 bad=0.1887 wait50=1 wait95=14 abandon=0.0002
+shard=0.1   best  b=25  matches=412213 gap=24.4 bad=0.2284 wait50=0 wait95=14 abandon=0.0002
+shard=0.1   best  b=35  matches=412216 gap=25.5 bad=0.2771 wait50=2 wait95=14 abandon=0.0001
+shard=0.1   best  b=50  matches=412219 gap=26.0 bad=0.2631 wait50=2 wait95=15 abandon=0.0001
+shard=0.1   best  b=100 matches=412225 gap=35.2 bad=0.4414 wait50=0 wait95=15 abandon=0.0001
+8254172 blitz arrivals
+shard=0.1   best  b=1   matches=412212 gap=21.9 bad=0.1706 wait50=1 wait95=14 abandon=0.0002
+shard=0.1   best  b=5   matches=412214 gap=22.5 bad=0.1833 wait50=1 wait95=14 abandon=0.0002
+shard=0.1   best  b=10  matches=412215 gap=22.6 bad=0.1887 wait50=1 wait95=14 abandon=0.0002
+shard=0.1   best  b=25  matches=412213 gap=24.4 bad=0.2284 wait50=0 wait95=14 abandon=0.0002
+shard=0.1   best  b=35  matches=412216 gap=25.5 bad=0.2771 wait50=2 wait95=14 abandon=0.0001
+shard=0.1   best  b=50  matches=412219 gap=26.0 bad=0.2631 wait50=2 wait95=15 abandon=0.0001
+shard=0.1   best  b=100 matches=412225 gap=35.2 bad=0.4414 wait50=0 wait95=15 abandon=0.0001
