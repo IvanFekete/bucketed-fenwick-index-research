@@ -332,7 +332,7 @@ The study was performed without financial support. Cloud computing resources wer
 
 ## Data availability
 
-The manuscript has associated data in a data repository. The source code, raw measurements, simulation results, and analysis and visualization scripts can be found at https://github.com/IvanFekete/bucketed-fenwick-index.The input game data are taken from the Lichess open database [24], released under the CC0 licence.
+The manuscript has associated data in a data repository. The source code, raw measurements, simulation results, and analysis and visualization scripts can be found at https://github.com/IvanFekete/bucketed-fenwick-index-research. The input game data are taken from the Lichess open database [24], released under the CC0 licence.
 
 ## Use of artificial intelligence
 
