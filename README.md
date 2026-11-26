@@ -1,10 +1,9 @@
 # Bucketed Fenwick index for skill-based matchmaking queues
 
-Code, raw measurements, simulation outputs and analysis scripts for the paper
+Code, raw measurements, simulation outputs, and analysis scripts for the paper
 
-> I. Fekete. *A bucketed Fenwick index for skill-based matchmaking queues: operating envelope and the cost of rating quantization.* Submitted to the Eastern-European Journal of Enterprise Technologies.
+> I. Fekete. *A bucketed Fenwick index for skill-based matchmaking queues: operating envelope and the cost of rating quantization.*
 
-The paper text is in [`paper/manuscript.md`](paper/manuscript.md). Every number in it is mapped to the data file and script that produced it in [`paper/claims.md`](paper/claims.md).
 
 ## What is here
 
